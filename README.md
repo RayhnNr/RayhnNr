@@ -23,7 +23,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_aryhnr/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.aryhnr-webdev.my.id/)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Raihanwebml&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=aryhnnr&color=blueviolet&style=for-the-badge)
   
 </div>
 
