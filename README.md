@@ -15,11 +15,6 @@
 
 Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasan, Madura. Fokus membangun web app yang scalable dengan JavaScript, PHP, dan Python — dari frontend sampai backend.
 
-### 📑 Table of Contents
-- [Tech Stack](#-tech-stack)
-- [GitHub Stats](#-github-stats)
-- [Get in Touch](#-get-in-touch)
-
 <br>
 
 ### 🧰 Tech Stack
