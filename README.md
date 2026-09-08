@@ -2,7 +2,7 @@
 
 # Akh. Raihan Gimnastiar Rakhman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Informatics+Engineering+%40+UTM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=550&lines=Web+Developer+%7C+Machine+Learning;Informatics+Engineering+%40+UTM" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryhnr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_aryhnr/)
