@@ -33,11 +33,11 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=aryhnnr&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=RayhnNr&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
 
-  <img src="https://streak-stats.demolab.com/?user=aryhnnr&theme=onedark&hide_border=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=RayhnNr&theme=onedark&hide_border=false" height="165"/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryhnnr&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RayhnNr&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 
 </div>
 <br>
