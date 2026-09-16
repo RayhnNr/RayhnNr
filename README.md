@@ -32,7 +32,7 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 
 <br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
@@ -45,6 +45,6 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 </div>
 <br>
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 
 📧 **raihan.webml@gmail.com** &nbsp;·&nbsp; 🚀 Open for collaborations and innovative projects!
