@@ -20,15 +20,15 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 ## 🛠️ Tech Stack
 
 **Languages & Frontend**  
-![](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=php,python,js,html,css,react,vue,tailwind,bootstrap)
 
 **Backend & Database**  
-![](https://skillicons.dev/icons?i=laravel,nodejs,php,python,mysql,postgres)  
+![](https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres)  
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
 **DevOps & Tools**  
-![](https://skillicons.dev/icons?i=docker,githubactions,vercel,git,figma,postman,vscode)
+![](https://skillicons.dev/icons?i=docker,github,vercel,git,figma,postman,vscode)
 
 <br>
 
