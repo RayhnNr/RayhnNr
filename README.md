@@ -21,7 +21,7 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 ![](https://skillicons.dev/icons?i=php,python,js,html,css,react,vue,tailwind,bootstrap)
 
 **Backend & Database**  
-![](https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres)  
+![](https://skillicons.dev/icons?i=golang,laravel,nodejs,mysql,postgres)  
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
