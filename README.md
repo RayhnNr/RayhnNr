@@ -17,16 +17,22 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 
 ## 🛠️ Tech Stack
 
-**Languages & Frontend**  
-![](https://skillicons.dev/icons?i=php,python,js,html,css,react,vue,tailwind,bootstrap)
-
-**Backend & Database**  
-![](https://skillicons.dev/icons?i=golang,laravel,nodejs,mysql,postgres)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+**Frontend**  
+![](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap)  
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
-**DevOps & Tools**  
-![](https://skillicons.dev/icons?i=docker,github,vercel,git,figma,postman,vscode)
+**Backend & Database**  
+![](https://skillicons.dev/icons?i=php,golang,nodejs,laravel,mysql,postgres)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**Data Science & Machine Learning**  
+![](https://skillicons.dev/icons?i=python,tensorflow,opencv)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**DevOps, Tools & Concepts**  
+![](https://skillicons.dev/icons?i=docker,git,github,vercel,figma,postman,vscode)  
+`REST API` · `JWT` · `MVC` · `SEO`
 
 <br>
 
