@@ -38,14 +38,16 @@ Halo 👋 Saya Raihan, mahasiswa **Informatics Engineering @ UTM** dari Pamekasa
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=RayhnNr&show_icons=true&theme=onedark&hide_border=true" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RayhnNr&layout=compact&theme=onedark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=RayhnNr&theme=onedark&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="./metrics-overview.svg" width="410" alt="Overview" /></td>
+    <td><img src="./metrics-languages.svg" width="410" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td><img src="./metrics-calendar.svg" width="410" alt="Contribution Calendar" /></td>
+    <td><img src="./metrics-habits.svg" width="410" alt="Coding Habits" /></td>
+  </tr>
+</table>
 <br>
 
 ## 📫 Get in Touch
